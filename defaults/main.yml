@@ -1,2 +1,3 @@
----
-# defaults file for software_bzip2
+#Example on how to define software version. Dont fill this var if you want the latest version
+#version-bzip2:
+#byxussof this doesn't work yet
